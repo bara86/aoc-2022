@@ -1,6 +1,7 @@
 from argparse import ArgumentParser
 
 from day1.main import main as main_day1
+from day2.main import main as main_day2
 
 
 def main():
