@@ -7,6 +7,7 @@ from day4.main import main as main_day4
 from day5.main import main as main_day5
 from day6.main import main as main_day6
 from day7.main import main as main_day7
+from day8.main import main as main_day8
 
 
 def main():
