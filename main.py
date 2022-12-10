@@ -8,7 +8,7 @@ from day5.main import main as main_day5
 from day6.main import main as main_day6
 from day7.main import main as main_day7
 from day8.main import main as main_day8
-
+from day9.main import main as main_day9
 
 def main():
     arg_parser = ArgumentParser()
